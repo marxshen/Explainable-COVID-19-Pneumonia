@@ -1,4 +1,4 @@
-# Project-5-Explainable-COVID-19-Pneumonia
+# Explainable-COVID-19-Pneumonia
 
 Environment: Colab Pro - Google Colab
 
