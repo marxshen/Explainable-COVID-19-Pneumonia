@@ -1,7 +1,8 @@
 # Explainable COVID-19 Pneumonia
 
 ---
-This program applies LIME and SHAP, interpretability methods in machine learning, to distinguish chest X-rays of individuals with respiratory illness testing positive for COVID-19 from other X-rays.
+This program applies LIME and SHAP to distinguish chest X-rays of individuals<br/>
+with respiratory illness testing positive for COVID-19 from other X-rays.
 
 ---
 Environment: Colab Pro - Google Colab
